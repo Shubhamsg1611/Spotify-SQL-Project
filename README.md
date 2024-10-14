@@ -3,7 +3,14 @@
 ![Spotify Logo](https://open.spotifycdn.com/cdn/images/og-image.548bc4b7.png)
 
 ## Overview: 
-This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using SQL. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
+This project involves analyzing a dataset of songs from Spotify using SQL. The goal is to gain insights into artists' performance, album statistics, song popularity, and user interactions such as views and likes. Key tasks include:
+
+- Retrieving the top-performing artists based on total views and likes.
+- Analyzing the distribution of albums and songs across various artists.
+- Identifying trends in song popularity over time.
+- Aggregating data to summarize artists' overall impact on the platform.
+
+This project demonstrates the use of SQL for data aggregation, filtering, and analysis to generate meaningful insights from music streaming data.
 
 ## Project Steps
 
